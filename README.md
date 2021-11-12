@@ -1,3 +1,3 @@
 # stemsegment
 
-Segement 4D-STEM data
+Segment 4D-STEM data
