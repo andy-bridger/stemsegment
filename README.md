@@ -82,9 +82,9 @@ Intended for processing 4D-STEM datasets using an autoencoder trainer and a Data
 <!-- RUNNING ON DLS-JUPYTERHUB -->
 ## Running on the DLS-JUPYTERHUB
 
--In order to use, boot up a GPU kernel and replace the container image with: CONTAINER_IMAGE=gcr.io/diamond-pubreg/container-tools/jhub-notebook:cuda10.1
+- In order to use, boot up a GPU kernel and replace the container image with: CONTAINER_IMAGE=gcr.io/diamond-pubreg/container-tools/jhub-notebook:cuda10.1
 
--Select the EPSIC3.7 environment to run the example notebooks
+- Select the EPSIC3.7 environment to run the example notebooks
 
 
 <!-- USAGE EXAMPLES -->
