@@ -166,21 +166,3 @@ Project Link: [https://github.com/andy-bridger/stemsegment](https://github.com/a
 * []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/andy-bridger/stemsegment.svg?style=for-the-badge
-[contributors-url]: https://github.com/andy-bridger/stemsegment/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/andy-bridger/stemsegment.svg?style=for-the-badge
-[forks-url]: https://github.com/andy-bridger/stemsegment/network/members
-[stars-shield]: https://img.shields.io/github/stars/andy-bridger/stemsegment.svg?style=for-the-badge
-[stars-url]: https://github.com/andy-bridger/stemsegment/stargazers
-[issues-shield]: https://img.shields.io/github/issues/andy-bridger/stemsegment.svg?style=for-the-badge
-[issues-url]: https://github.com/andy-bridger/stemsegment/issues
-[license-shield]: https://img.shields.io/github/license/andy-bridger/stemsegment.svg?style=for-the-badge
-[license-url]: https://github.com/andy-bridger/stemsegment/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
