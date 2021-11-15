@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/andy-bridger/stemsegment">
-    <img src="images/stemseg.png" alt="Logo" width="80" height="80">
+    <img src="images/stemseg.png" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">STEMseg</h3>
@@ -84,12 +84,12 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `andy-bridger`, `stemsegment`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+Intended for processing 4D-STEM datasets using an autoencoder trainer and a DataWrapper for processing the samples. The example notebooks should walkthrough the process of using training an auto-encoder and using it to cluster regions with similar diffraction data automatically.
 
 
 
 <!-- RUNNING ON DLS-JUPYTERHUB -->
-## Getting Started
+## Running on the DLS-JUPYTERHUB
 
 In order to use, boot up a GPU kernel and replace the container image with: CONTAINER_IMAGE=gcr.io/diamond-pubreg/container-tools/jhub-notebook:cuda10.1
 Select the EPSIC3.7 environment to run the example notebooks
