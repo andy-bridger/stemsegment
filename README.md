@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/andy-bridger/stemsegment">
-    <img src="images/stemseg.png" alt="Logo" width="100" height="100">
+    <img src="images/stemseg.png" alt="Logo" width="140" height="140">
   </a>
 
 <h3 align="center">STEMseg</h3>
@@ -117,7 +117,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Andy Bridger - andrew.bridger"univ.ox.ac.uk
+Andy Bridger - andrew.bridger@univ.ox.ac.uk
 
 Project Link: [https://github.com/andy-bridger/stemsegment](https://github.com/andy-bridger/stemsegment)
 
