@@ -34,7 +34,7 @@
     <a href="https://github.com/andy-bridger/stemsegment"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/andy-bridger/stemsegment">View Demo</a>
+    <a href="https://github.com/andy-bridger/stemsegment/example-notebooks">View Demo</a>
     ·
     <a href="https://github.com/andy-bridger/stemsegment/issues">Report Bug</a>
     ·
