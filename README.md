@@ -75,8 +75,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Intended for processing 4D-STEM datasets using an autoencoder trainer and a DataWrapper for processing the samples. The example notebooks should walkthrough the process of training the encoder and using it to cluster regions with similar diffraction data automatically.
 
 
@@ -84,8 +82,8 @@ Intended for processing 4D-STEM datasets using an autoencoder trainer and a Data
 <!-- RUNNING ON DLS-JUPYTERHUB -->
 ## Running on the DLS-JUPYTERHUB
 
-In order to use, boot up a GPU kernel and replace the container image with: CONTAINER_IMAGE=gcr.io/diamond-pubreg/container-tools/jhub-notebook:cuda10.1
-Select the EPSIC3.7 environment to run the example notebooks
+-In order to use, boot up a GPU kernel and replace the container image with: CONTAINER_IMAGE=gcr.io/diamond-pubreg/container-tools/jhub-notebook:cuda10.1
+-Select the EPSIC3.7 environment to run the example notebooks
 
 
 <!-- USAGE EXAMPLES -->
