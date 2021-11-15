@@ -84,7 +84,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Intended for processing 4D-STEM datasets using an autoencoder trainer and a DataWrapper for processing the samples. The example notebooks should walkthrough the process of using training an auto-encoder and using it to cluster regions with similar diffraction data automatically.
+Intended for processing 4D-STEM datasets using an autoencoder trainer and a DataWrapper for processing the samples. The example notebooks should walkthrough the process of training the encoder and using it to cluster regions with similar diffraction data automatically.
 
 
 
