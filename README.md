@@ -52,7 +52,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="#getting-started">Running on DLS-Jupyterhub</a>
+      <a href="#running-on-the-dls-jupyterhub">Running on DLS-Jupyterhub</a>
     </li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -68,7 +68,7 @@ Intended for processing 4D-STEM datasets using an autoencoder trainer and a Data
 
 
 <!-- RUNNING ON DLS-JUPYTERHUB -->
-## Running on the DLS-JUPYTERHUB
+## Running on the DLS Jupyterhub
 
 - Make a copy of the example-notebooks
 
