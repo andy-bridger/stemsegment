@@ -82,9 +82,17 @@ Intended for processing 4D-STEM datasets using an autoencoder trainer and a Data
 <!-- RUNNING ON DLS-JUPYTERHUB -->
 ## Running on the DLS-JUPYTERHUB
 
-- In order to use, boot up a GPU kernel and replace the container image with: CONTAINER_IMAGE=gcr.io/diamond-pubreg/container-tools/jhub-notebook:cuda10.1
+- Make a copy of the example-notebooks
 
-- Select the EPSIC3.7 environment to run the example notebooks
+- Copy the folders stemseg and stemutils (under modules folder) to the notebook's local directory or /home/{YOUR FED ID}/.local/lib/python3.7/site-packages 
+
+- Boot up a GPU kernel having replaced the container image with: CONTAINER_IMAGE=gcr.io/diamond-pubreg/container-tools/jhub-notebook:cuda10.1
+
+- Select the EPSIC3.7 environment to run the example notebooks (if not a default)
+
+- First work through TrainModels.ipynb to create a trained VAE for your datasets
+
+- Then work through TrainInvestigator.ipynb to use the model to cluster
 
 
 <!-- CONTRIBUTING -->
