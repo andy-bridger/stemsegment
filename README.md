@@ -31,9 +31,6 @@
   <p align="center">
     Help the processing of 4D-STEM data, specifically automatically clustering similar pixels in SEND pencil beam data 
     <br />
-    <a href="https://github.com/andy-bridger/stemsegment"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/andy-bridger/stemsegment/tree/main/example-notebooks">View Demo</a>
     ·
     <a href="https://github.com/andy-bridger/stemsegment/issues">Report Bug</a>
